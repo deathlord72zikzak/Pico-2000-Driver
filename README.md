@@ -204,4 +204,4 @@ PICO 2000 Driver is available as a complete free version, offering all features 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-10 22:15:39 UTC
+**Last updated:** 2026-10-11 01:22:46 UTC
